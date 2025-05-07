@@ -77,7 +77,7 @@ Successfully created a 3D model using 15 Apollo images.
 - Alignment and cloud reconstruction worked, but texture generation is not up to the mark.
 - Demonstrated that synthetic views need true geometric variation to add value.
 
- This project highlights both the power and the limits of photogrammetry and emphasizes how emerging methods like Gaussian Splatting can potentially fill gaps when properly applied
+ 
 
 
 ---
