@@ -70,6 +70,15 @@ To test whether adding new views improves the photogrammetric model.
 - All 25 images were aligned successfully in Metashape.
 - The dense point cloud was generated accurately.
 - The mesh model was created, and the texture generation worked to some extent, but the improvement was minimal compared to the 15-image model.
+**Final Conclusion**
+Successfully created a 3D model using 15 Apollo images.
+- Measured image fidelity with SSIM and PSNR.
+- Attempted view augmentation with 10 synthetic images.
+- Alignment and cloud reconstruction worked, but texture generation is not up to the mark.
+- Demonstrated that synthetic views need true geometric variation to add value.
+
+ This project highlights both the power and the limits of photogrammetry and emphasizes how emerging methods like Gaussian Splatting can potentially fill gaps when properly applied
+
 
 ---
 
