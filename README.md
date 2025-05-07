@@ -98,5 +98,5 @@ Successfully created a 3D model using 15 Apollo images.
 
 ## 🧠 Summary
 
-This project helped me understand how additional viewpoints influence 3D model reconstruction in photogrammetry. It also introduced me to the value of image-based metrics like SSIM and PSNR when evaluating the similarity of novel views.
+This assignment helped me understand how additional viewpoints influence 3D model reconstruction in photogrammetry. It also introduced me to the value of image-based metrics like SSIM and PSNR when evaluating the similarity of novel views.
 """
